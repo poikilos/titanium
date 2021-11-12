@@ -1,0 +1,13 @@
+code:
+
+(c) Aqua, HybridDog, VanessaE, TechnoWolfTV
+[CC0](https://wiki.creativecommons.org/wiki/CC0)
+
+textures:
+
+(c) Aqua, HybridDog, VanessaE, 2021 Poikilos (resized & retouched 32x32 textures)
+[CC0](https://wiki.creativecommons.org/wiki/CC0)
+
+
+CC0 plaintext:
+wget https://creativecommons.org/publicdomain/zero/1.0/legalcode.txt
